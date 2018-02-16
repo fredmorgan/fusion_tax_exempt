@@ -1,0 +1,6 @@
+name: Fusion Tax Exempt Module
+description: Adds ability to not charge tax in Commerce 2 for users designated as tax expempt.
+package: Custom
+type: module
+version: 1.0
+core: 8.x
