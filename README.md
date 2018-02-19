@@ -17,7 +17,7 @@ A simple module for Commerce 2 with Drupal 8 that allows for the elimination of 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md]
+Please read [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Version
 
@@ -25,9 +25,9 @@ Please read [CONTRIBUTING.md]
 
 ## Authors
 
-* **Fred Morgan** - *Initial work* - [Fusioncorp](https://fusioncorpdesign.com)
+* **Fred Morgan** - *Initial work* - [Fusioncorp](https://www.fusioncorpdesign.com)
 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+GNU GENERAL PUBLIC LICENSE v. 2 - see the [LICENSE](LICENSE) file for details
